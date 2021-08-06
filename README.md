@@ -14,7 +14,7 @@ Twitter: @Celina_kimm (Follow for #100DaysOfCode content!)
 I was inspired to create Photo Mapper while volunteering for a political campaign. One of our biggest pain points was managing and storing the location of all of the yard signs and marketing materials. My solution, Photo Mapper, removes the need for manual entries, and allows for easy collaboration in the cloud. [Visit Here!](https://sign-tracker-a5630.web.app/)
 
 Technologies Used: ReactJS, Google Firebase (Auth, Firestore, Storage), and Google Maps API
-![Photo Mapper Splash Page](/images/splash)
+![Photo Mapper Splash Page](/images/splash.png)
 
 <!--
 **Celinarabe/Celinarabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
