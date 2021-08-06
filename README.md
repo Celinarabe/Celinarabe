@@ -10,11 +10,12 @@ Twitter: @Celina_kimm (Follow for #100DaysOfCode content!)
 
 ## Passion Projects
 
-### Sign Tracker
-I was inspired to create Sign Tracker while volunteering for a political campaign. One of our biggest pain points was managing and storing the location of all of the yard signs and marketing materials. My solution, Sign Tracker, removes the need for manual entries, and allows for easy collaboration in the cloud. [Visit Here] (https://sign-tracker-a5630.web.app/)
+### Photo Mapper
+I was inspired to create Photo Mapper while volunteering for a political campaign. One of our biggest pain points was managing and storing the location of all of the yard signs and marketing materials. My solution, Photo Mapper, removes the need for manual entries, and allows for easy collaboration in the cloud. [Visit Here!](https://sign-tracker-a5630.web.app/)
+
+Technologies Used: ReactJS, Google Firebase (Auth, Firestore, Storage), and Google Maps API
 
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Celinarabe&repo=sign-tracker&show_owner=true)](https://github.com/Celinarabe/sign-tracker)
 <!--
 **Celinarabe/Celinarabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
