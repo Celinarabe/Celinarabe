@@ -12,7 +12,8 @@ Twitter: @Celina_kimm (Follow for #100DaysOfCode content!)
 ## Passion Projects
 
 ### Sign Tracker
-I was inspired to create Sign Tracker (now Photo Mapper) while volunteering for a political campaign. 
+I was inspired to create Sign Tracker (now Photo Mapper) while volunteering for a political campaign. [Visit site here!](https://sign-tracker-a5630.web.app/)
+<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=celinarabe&repo=sign-tracker)](https://github.com/Celinarabe/sign-tracker)
 
 
