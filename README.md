@@ -1,6 +1,6 @@
 ## Celina Rabe 
 
-👋  Hi There! I'm Celina, a self-taught Android Mobile Developer. Previously, I was a Cybersecurity Analyst at a Fortune 500 Company. I have a degree in Business Administration with a minor in Computer Science from The University of Texas at Austin.
+👋  Hi There! I'm Celina, a self-taught Android Mobile Developer. Previously, I was a Cybersecurity Analyst at a Fortune 500 Company. I have a degree in Business Administration with a minor in Computer Science from The University of Texas at Austin. I enjoy building apps to solve real problems around me as well as being active within the Tech community and providing support and content for other self taught developers on their journey.
 
 📫  How to reach me:  
 Email: celinarabe@gmail.com  
