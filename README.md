@@ -13,7 +13,7 @@ Twitter: @Celina_kimm (Follow for #100DaysOfCode content!)
 
 ### Sign Tracker
 I was inspired to create Sign Tracker (now Photo Mapper) while volunteering for a political campaign. [Visit site here!](https://sign-tracker-a5630.web.app/)
-<br>
+<br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=celinarabe&repo=sign-tracker)](https://github.com/Celinarabe/sign-tracker)
 
 
