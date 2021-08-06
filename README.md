@@ -2,13 +2,9 @@
 
 👋  Hi There! I'm Celina, a self-taught Android Mobile Developer. Previously, I was a Cybersecurity Analyst at a Fortune 500 Company. I have a degree in Business Administration with a minor in Computer Science from The University of Texas at Austin.
 
-🌱  I’m currently learning Android Development in public. Follow me on Twitter (@Celina_kimm) for #100DaysOfCode content!
-
-💬  Ask me about resources for self-taught devs (Web or Mobile). With so many online resources, the self taught journey can get overwhelming, but it doesn't have to be 😊
-
 📫  How to reach me:  
 Email: celinarabe@gmail.com  
-Twitter: @Celina_kimm
+Twitter: @Celina_kimm (Follow for #100DaysOfCode content!)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Celinarabe&show_icons=true&count_private=true)
 
