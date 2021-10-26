@@ -7,8 +7,6 @@
 Email: celinarabe@gmail.com  
 Twitter: [@Celina_kimm](https://twitter.com/Celina_Kimm) (Follow for #100DaysOfCode content!)
 
-👻 Fun fact: I hold dual citizenship with the U.S. and Switzerland🇨🇭
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Celinarabe&show_icons=true&theme=tokyonight&count_private=true)
 
 ## Passion Projects
