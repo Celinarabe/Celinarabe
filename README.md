@@ -6,15 +6,15 @@
 📫  How to reach me:  
 Email: celinarabe@gmail.com  
 Twitter: [@Celina_kimm](https://twitter.com/Celina_Kimm) (Follow for #100DaysOfCode content!)
-
+<!-- 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Celinarabe&show_icons=true&theme=tokyonight&count_private=true)
-
-## Passion Projects
+ -->
+<!-- ## Passion Projects
 
 ### Sign Tracker
 I was inspired to create Sign Tracker (now Photo Mapper) while volunteering for a political campaign. [Visit site here!](https://sign-tracker-a5630.web.app/)
 <br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=celinarabe&repo=sign-tracker)](https://github.com/Celinarabe/sign-tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=celinarabe&repo=sign-tracker)](https://github.com/Celinarabe/sign-tracker) -->
 
 
 <!--
