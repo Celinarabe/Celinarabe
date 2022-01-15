@@ -1,7 +1,7 @@
 ## Celina Rabe 
 
 
-👋  Hi There! I'm Celina, an Android/Web Developer. Previously, I was a Cybersecurity Analyst at a Fortune 500 Company. I have a Bachelors degree in Management Information Systems with a minor in Computer Science from The University of Texas at Austin. I enjoy building apps to solve real problems around me as well as being active within the Tech community and providing support and content for other self taught developers on their journey.
+👋  Hi There! I'm Celina, an Android/Web Developer. Previously, I worked in Cybersecurity for an oil & gas company. I have a Bachelors degree in Management Information Systems with a minor in Computer Science from The University of Texas at Austin. I enjoy building apps to solve real problems around me as well as being active within the Tech community and providing support and content for other self taught developers on their journey.
 
 📫  How to reach me:  
 Email: celinarabe@gmail.com  
