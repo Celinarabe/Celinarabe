@@ -1,7 +1,7 @@
 ## Celina Rabe 
 
 
-👋  Hi There! I'm Celina, an Android/Web Developer. I enjoy building things to solve my own problems as well as being active within the Tech community and providing support for other self taught developers on their journey. I have a Bachelors degree in Management Information Systems with a minor in Computer Science from The University of Texas at Austin. 
+👋  Hi There! I'm Celina, a mobile/web Developer. I enjoy building things to solve my own problems as well as being active within the Tech community and providing support for other self taught developers on their journey. I have a Bachelors degree in Management Information Systems with a minor in Computer Science from The University of Texas at Austin. 
 
 📫  How to reach me:  
 Email: celinarabe@gmail.com  
