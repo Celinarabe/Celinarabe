@@ -5,7 +5,7 @@
 
 📫  How to reach me:  
 Email: celinarabe@gmail.com  
-Twitter: [@Celina_kimm](https://twitter.com/Celina_Kimm) (Follow for #100DaysOfCode content!)
+Twitter: [@shhhlina](https://twitter.com/shhhlina) (Follow for #100DaysOfCode content!)
 <!-- 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Celinarabe&show_icons=true&theme=tokyonight&count_private=true)
  -->
